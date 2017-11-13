@@ -1,4 +1,62 @@
-article {
-	border: 1px solid #d1eda6;
-	display: flex;
+/* * * * * * * * * * * * * * * *
+ *   Front-end News! Stylesheet
+ *
+ *   Indigo       :	#3f51b5;
+ *   Indigo (dark): #303f9f
+ *   Light blue	  : #c5cae9
+ *   White        : #fff
+ *   Pink         : #ff4081
+ *   Gray (dark)  : #212121
+ *   Gray (medium): #727272
+ *   Gray (light) : #b6b6b6
+ *
+ * * * * * * * * * * * * * * * */
+
+/*- - - - - - - - - - - - - - - -
+ *	 Base
+ - - - - - - - - - - - - - - - - */
+
+body {
+	font-family: "Lato", "Roboto", "Roboto Light", "Roboto Condensed", "Roboto Mono", "Roboto Slab", "Monserrat", "Oswald", "Raleway", "Open Sans", sans-serif;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+ol {
+
+}
+
+li {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+
+/*- - - - - - - - - - - - - - - -
+ *	 hero
+ - - - - - - - - - - - - - - - - */
+.hero {
+	background-color: #3f51b5;
+	color: #fff;
+	padding: .5em 0;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/*- - - - - - - - - - - - - - - -
+ *	 logo
+ - - - - - - - - - - - - - - - - */
+.logo {
+	font-size: 1.5em;
+	font-weight: bold;
+	font-variant: small-caps;
 }
